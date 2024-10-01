@@ -1,4 +1,11 @@
 ---
 title: "about"
+output: html_document
 ---
 
+## About Me
+
+This page gives information about the creator and the purpose of this website.
+
+### Background
+A little bit about the project or yourself.
