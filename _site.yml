@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: '<img src="logo7.png" alt="Skyspatial" style="height: 100px; width: 100px;">' # Change height and width here to 150px or any size you prefer
   left:
     - text: "Home"
       href: index.html
@@ -8,5 +8,6 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: textmate
+    css: styles.css
