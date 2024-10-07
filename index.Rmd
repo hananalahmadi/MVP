@@ -1,5 +1,5 @@
 ---
-title: "Skyspatial services to detect disease cluster"
+title: "Sorat Alardh services to detect disease cluster"
 output: html_document
 ---
 
@@ -16,10 +16,10 @@ When we look at the estimated relative risk in **Figure 2**, we get a clearer pi
 
 To make it even easier, we can use **cluster maps** to highlight regions that exceed a specific risk threshold, such as a relative risk higher than 1.1. The cluster map gives a quick view of the most critical areas that require investigation and resource allocation.
 
-For more accurate risk estimation—and ultimately better cluster identification—it’s essential to include risk factors in the model. For lung cancer, for example, including pollution levels like $\text{PM}_{2.5}$ as a risk factor can significantly improve our estimates. Our services in skyspatial leverage satellite data for risk factors like pollution to enhance the accuracy of these disease risk models, helping decision-makers allocate resources more efficiently.
+For more accurate risk estimation—and ultimately better cluster identification—it’s essential to include risk factors in the model. For lung cancer, for example, including pollution levels like $\text{pm}_{2.5}$ as a risk factor can significantly improve our estimates. Our services in Sorat Alardh leverage satellite data for risk factors like pollution to enhance the accuracy of these disease risk models, helping decision-makers allocate resources more efficiently.
 
 
-- To access our **Skyspatial** application for detecting disease clusters, click [here](https://skyspatial-281410227287.us-central1.run.app/).
+- To access our **Sorat Alardh** application for detecting disease clusters, click [here](https://skyspatial-281410227287.us-central1.run.app/).
 
 - For uploading data to the application, you can download the data template [here](https://drive.google.com/file/d/1TLux8gClwGOoBHZAIZphwnpwXX55Hwfn/view?usp=drive_link). Simply fill in your data and upload it directly to the app.
 
