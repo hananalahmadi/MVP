@@ -7,7 +7,7 @@ output: html_document
 \
 \
 
-Sorat Alardh's services are rooted in the cutting-edge research conducted during my PhD project at the GeoHealth group at KAUST. This research has laid the foundation for the innovative tools and insights offered through Skyspatial.
+Sorat Alardh's services are rooted in the cutting-edge research conducted during my PhD project at the GeoHealth group at KAUST. This research has laid the foundation for the innovative tools and insights offered through Sorat Alardh.
 
 \ 
 \
