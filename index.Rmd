@@ -231,6 +231,11 @@ browsable(
 )
 
 
+# # Copy the content of the _site folder to the root of the repository
+# cp -r _site/* .
+# 
+# # Remove the _site folder if you no longer need it
+# rm -r _site
 
 
 
